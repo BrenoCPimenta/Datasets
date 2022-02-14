@@ -1,5 +1,7 @@
 ### Source:
-**Paper:**
-[Central de Fatos: Um Repositório de Checagens de Fatos](https://sol.sbc.org.br/index.php/dsw/article/view/17421)
+**Fact Checking:**
+* Paper: [Central de Fatos: Um Repositório de Checagens de Fatos](https://sol.sbc.org.br/index.php/dsw/article/view/17421)
+* [Data source](https://zenodo.org/record/5191798#.Ygmk8fvQ9Ng)
 
-[**Data**](https://zenodo.org/record/5191798#.Ygmk8fvQ9Ng)
+**True News**:
+* Source: [Kaggle repo](https://www.kaggle.com/diogocaliman/notcias-publicadas-no-brasil)
